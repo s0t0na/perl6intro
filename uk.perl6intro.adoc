@@ -1,0 +1,29 @@
+= Вступ до Perl6
+Naoum Hankache <naoum@hankache.com>; Дмитро Ясколко <mescalito.ua@gmail.com>;
+
+:description:  Загальна інтродукція до Perl 6
+:keywords: perl6, perl 6, введення, perl6intro, введення до perl 6, інтродукція до 6, вивчення perl6
+:Revision: 0.1
+:icons: font
+:source-highlighter: pygments
+//:pygments-style: manni
+:source-language: perl6
+:pygments-linenums-mode: table
+:toc: left
+:toc-title: Зміст
+:doctype: book
+:lang: uk
+
+#TODO
+
+.Переклади
+
+* Болгарська: http://bg.perl6intro.com
+* Іспанська: http://es.perl6intro.com
+* Китайська: http://zh.perl6intro.com
+* Німецька: http://de.perl6intro.com
+* Португальська: http://pt.perl6intro.com
+* Фразцузька: http://fr.perl6intro.com
+* Голандська: http://nl.perl6intro.com
+* Японська: http://ja.perl6intro.com
+* Українська: http://uk.perl6intro.com
