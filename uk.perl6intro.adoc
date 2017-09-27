@@ -22,31 +22,25 @@ Naoum Hankache <naoum@hankache.com>; Дмитро Ясколко <mescalito.ua@g
 Всюди у цьому документі ви знайдете приклади до найбільш обговорюваних тем. Аби краще їх зрозуміти, будь ласка, знайдіть трохи часу аби відтворити їх.
 
 .Ліцензія
-
 Цей документ ліцензовано за міжнародною ліцензією Creative Commons Attribution Share-Alike 4.0 (Із зазначенням авторства — Розповсюдження на тих самих умовах)
-Аби побачити копію цієї лізензії, перейдіть за:
+Аби побачити копію цієї лізензії, перейдіть за посиланням:
 
 * https://creativecommons.org/licenses/by-sa/4.0/.
 
 .Долучення
-
 Якщо ви хочете долучитися до вдосконалення цього документа, перейдіть до:
 
 * https://github.com/hankache/perl6intro
 
 .Відгуки
-
 Будь-які вігуки вдячно ся приймають на:
 
-* naoum@hankache.com
-* mescalito.ua@gmail.com
+* naoum@hankache.com - English
+* mescalito.ua@gmail.com - Українська
 
-Якщо вам сподобалася ця робота, позначте зірочкою репозиторій за посиланням:
-
-link:https://github.com/hankache/perl6intro[Github].
+Якщо вам сподобалася ця робота, позначте зірочкою репозиторій за посиланням: link:https://github.com/hankache/perl6intro[Github].
 
 .Переклади
-
 * Болгарська: http://bg.perl6intro.com
 * Іспанська: http://es.perl6intro.com
 * Китайська: http://zh.perl6intro.com
@@ -79,7 +73,7 @@ Perl 6 є багатопарадигмальною мовою, яка підтр
 === Встановлення Perl 6.
 .Linux
 
-Аби встановити Rakudo Star, виконайте наступні команди в своему терміналі:
+Аби встановити Rakudo Star, виконайте наступні команди в своєму терміналі:
 ----
 wget https://rakudo.perl6.org/downloads/star/rakudo-star-2017.07.tar.gz
 tar xfz rakudo-star-2017.07.tar.gz
@@ -98,12 +92,12 @@ make install
 
 .Windows
 . Завантажте останній встановлювач (файл з розширенням .msi) з https://rakudo.perl6.org/downloads/star/ +
-Якщо у вас 32-бітна система, завантажте файт х86; якщо 64-бітна, файл х86_64.
-. Пічля встановлення переконайтеся,  що `C:\rakudo\bin` додано до змінної PATH.
+Якщо у вас 32-бітна система, завантажте файл х86; якщо 64-бітна, файл х86_64.
+. Піcля встановлення переконайтеся,  що `C:\rakudo\bin` додано до змінної PATH.
 
 .Docker
 . Отримайте офіційний образ для Docker `docker pull rakudo-star`
-. Далі запустіть  контейнер з цим образом `docker run -it rakudo-star`
+. Далі запустіть контейнер з цим образом `docker run -it rakudo-star`
 
 === Виконання коду Perl 6
 
