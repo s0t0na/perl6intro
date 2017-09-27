@@ -1,6 +1,5 @@
 = Вступ до Perl6
 Naoum Hankache <naoum@hankache.com>; Дмитро Ясколко <mescalito.ua@gmail.com>;
-
 :description:  Загальна інтродукція до Perl 6
 :keywords: perl6, perl 6, введення, perl6intro, введення до perl 6, інтродукція до 6, вивчення perl6
 :Revision: 0.1
