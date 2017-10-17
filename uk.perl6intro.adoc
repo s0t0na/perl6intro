@@ -33,7 +33,7 @@ Naoum Hankache <naoum@hankache.com>; Дмитро Ясколко <mescalito.ua@g
 * https://github.com/hankache/perl6intro
 
 .Відгуки
-Будь-які вігуки вдячно ся приймають на:
+Будь-які відгуки вдячно ся приймають на:
 
 * naoum@hankache.com - English
 * mescalito.ua@gmail.com - Українська
